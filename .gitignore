@@ -2,3 +2,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
+*.tmp
+Project_Report_raw.pdf
+report_full.html
+generate_report_assets.py
+build_complete_report.py
+stamp_page_numbers.py
+update_toc.py
+fig_*.svg
+Project_Report.docx
+Project_Report.html
+Project_Report.md
