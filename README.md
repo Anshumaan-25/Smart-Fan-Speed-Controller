@@ -3,7 +3,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Academic Report](https://img.shields.io/badge/Project%20Report-PDF%20(48%20Pages)-red.svg)](Project_Report.pdf)
+[![Academic Report](https://img.shields.io/badge/Project%20Report-PDF%20(48%20Pages)-red.svg)](<Anshumaan Singh (097) SC report.pdf>)
 [![Code style](https://img.shields.io/badge/Dependencies-Standard%20Library%20Only-brightgreen.svg)]()
 
 A comprehensive Soft Computing project and real-time desktop simulator covering **Modules 01&ndash;03** of the **Soft Computing and Applications (CSE320)** curriculum at **Amity School of Engineering and Technology (ASET), Amity University, Noida**. 
@@ -23,7 +23,7 @@ The system implements, benchmarks, and demonstrates three distinct control parad
 - **Course Instructor:** Dr. Smriti Sehgal
 - **Institution:** Amity School of Engineering and Technology (ASET), Amity University, Noida
 - **Academic Term:** November 2026
-- **Complete Project Report:** [Download Project_Report.pdf (48 Pages)](Project_Report.pdf)
+- **Complete Project Report:** [Download Anshumaan Singh (097) SC report.pdf (48 Pages)](<Anshumaan Singh (097) SC report.pdf>)
 
 ---
 
