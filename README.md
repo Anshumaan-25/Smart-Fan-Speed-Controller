@@ -60,7 +60,3 @@ Training uses 143 points on a regular grid. All three methods are evaluated on 1
 ```sh
 python3 -m unittest -v
 ```
-
-
-:)
-
